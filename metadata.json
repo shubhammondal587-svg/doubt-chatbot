@@ -1,0 +1,9 @@
+{
+  "name": "doubt chatbot",
+  "description": "An advanced web application showcasing a suite of Gemini API features, including live voice/video sessions, multi-modal chat, image generation, search grounding, and more, all within a synchronized, intuitive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
